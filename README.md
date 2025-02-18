@@ -1,4 +1,4 @@
-# 🚀 Zian Miad | Aspiring Software Engineer & Game Developer  
+# 🚀 Mohammed Zian Vhuyya | Aspiring Software Engineer & Game Developer  
 
 💻 **CS Student @ CUNY BMCC** | 🎮 **Game Enthusiast** | 🚀 **Building & Learning**  
 
