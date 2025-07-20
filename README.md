@@ -9,7 +9,8 @@
 
 #### 🎮 [ZB-Games (Play Now)](https://github.com/zianBytes/ZB-GAMES)
 <p align="center">
-  <img src="https://zianbytes.github.io/banner/subbanner.jpg" width="600"/>
+  <img src="https://zianbytes.github.io/banner/subbanner.jpg" width="600"></img>
+</p>
 > _An indie game hub built with Raylib + C++. Features_ **Toby the Meowstronaut**,  
 > _a pixel cat navigating space chaos._  
 > 💬 *“Space is hard when you’re a cat.”*
