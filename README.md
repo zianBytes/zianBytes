@@ -7,17 +7,22 @@
 
 ### 🕹️ Projects I'm Playing With:
 
-- 🎮 **[ZB-Games (Play Now) ](https://github.com/zianBytes/ZB-GAMES)**  
-  Indie game hub powered by Raylib + C++. Featuring *Toby the Meowstronaut*, a pixel cat navigating space chaos.  
-  _“Space is hard when you're a cat.”_
+#### 🎮 [ZB-Games (Play Now)](https://github.com/zianBytes/ZB-GAMES)
+> _An indie game hub built with Raylib + C++. Features_ **Toby the Meowstronaut**,  
+> _a pixel cat navigating space chaos._  
+> 💬 *“Space is hard when you’re a cat.”*
 
-- 🛰️ **[Toby the Meowstronaut (Repo Link)](https://github.com/zianBytes/TobyTheMeowstronaut)**  
-  A side scrolling space game with custom sprite, asteroid dodging.  
-  All built with love and caffeine.
+---
 
-- 🧠 **MindoDock** (In Progress)  
-  A sleek macOS style dock under your webcam. Mini AI prompt window, music widget, sticky notes, and more.  
-  Dedicated to my grandma 💚.
+#### 🚀 [Toby the Meowstronaut (Repo)](https://github.com/zianBytes/TobyTheMeowstronaut)
+> _A side-scrolling space game with asteroid dodging, treats, and chaos._  
+> All custom sprites and logic — coded from scratch in pure C++.
+
+---
+
+#### 💻 MindoDock (In Progress)
+> _A sleek macOS-style dock under your webcam with built-in AI tools._  
+> Sticky notes, music widgets, and chat window — dedicated to my grandma 💚.
 
 ---
 
@@ -36,7 +41,7 @@
 
 ---
 
-### 🧮 My Stats But Make It Funny
+### 🧮 My Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zianBytes&layout=compact&theme=tokyonight)
 
