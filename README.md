@@ -14,8 +14,8 @@
 </p>
 
 #### 🎮 ZB-Games (Play Now)
-> Indie game hub powered by Raylib + C++.  
-> Featuring the first game *Toby the Meowstronaut*, a pixel cat navigating space chaos.  
+> 🫆 Indie game hub powered by Raylib + C++.  
+> 🫆 Featuring the first game *Toby the Meowstronaut*, a pixel cat navigating space chaos.  
 > 💬 _“Space is hard when you're a cat.”_
 
 ---
@@ -27,9 +27,9 @@
  </p>
 
 #### 🚀 Toby the Meowstronaut (Repo)
-> _A side scrolling space game with asteroid dodging, treats, and chaos._  
-> Custom sprites and logic.
-> Coded from scratch in pure C++ (With the help of AI ofc).
+> 🫆 _A side scrolling space game with asteroid dodging, treats, and chaos._  
+> 🫆 Custom sprites and logic.
+>  Coded from scratch in pure C++ (With the help of AI ofc).
 
 ---
 <p align="center">
@@ -39,8 +39,8 @@
  </p>
 
 #### 💻 MindoDock (In Progress)
-> _A sleek macOS-style dock under your webcam with built-in AI tools._  
-> Sticky notes, music widgets, and chat window dedicated to my grandma 💚.
+> 🫆 _A sleek macOS-style dock under your webcam with built-in AI tools._  
+> 🫆 Sticky notes, music widgets, and chat window dedicated to my grandma 💚.
 
 ---
 
@@ -59,7 +59,7 @@
 
 ---
 
-### 🧠 Crash Report Dashboard
+### 🧠 My Sats ( More like the many times I crashed out for fun ). 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Commits-71-yellow?style=flat-square&logo=github&logoColor=white&labelColor=1f2937&color=FACC15" />
@@ -85,12 +85,14 @@
 ---
 
 <details>
-<summary>🧪 secret dev energy</summary>
+<summary>🧪 secret Zian dev formula </summary>
 
 ```bash
 $ whoami
 > Indie Game Dev, CS Student, Pixel Wizard
+$ git add . 2 cans of celsius
 $ crash --out
 > Committed to chaos. Literally.
+
  
 
