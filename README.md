@@ -55,14 +55,14 @@
 
 ---
 
-### 🧮 My Stats
+### 🧠 My Stats (aka crash reports)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zianBytes&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://img.shields.io/badge/Commits-71-yellow?style=for-the-badge&logo=github&logoColor=white&labelColor=111827" />
+  <img src="https://img.shields.io/badge/Current_Streak-1🔥-f43f5e?style=for-the-badge&labelColor=111827" />
+  <img src="https://img.shields.io/badge/Total_Contributions-108-38bdf8?style=for-the-badge&labelColor=111827" />
+</p>
 
-![Zian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zianBytes&show_icons=true&theme=radical)
-
-> 🚨 **How many times I crashed out this week**  
-> ![Commit Streak](https://github-readme-streak-stats.herokuapp.com/?user=zianBytes&theme=radical)
 
 ---
 
