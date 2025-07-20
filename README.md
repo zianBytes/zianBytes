@@ -1,33 +1,68 @@
-# 🚀 Mohammed Zian Vhuyya | Aspiring Software Engineer & Game Developer  
+<!-- README.md for zianBytes -->
 
-💻 **CS Student @ CUNY BMCC** | 🎮 **Game Enthusiast** | 🚀 **Building & Learning**  
+<div align="center">
+  <img src="https://your-banner-link-here.gif" alt="ZB Games Pixel Banner" width="100%" />
+  <h1>yo, I'm Zian 👾</h1>
+  <h3>💻 I love building things and crashing out 💥</h3>
+</div>
 
-Hi, I’m **Zian**, a passionate **CS student** with a growing interest in **game development, AI, and backend engineering**. I'm currently working on **Toby the Meowstronaut**, a **Raylib-powered C++ game**, and another project to expand my skills. My goal is to **land an internship at Roblox** and sharpen my expertise in **C++, Swift, and backend technologies**.  
+---
 
-## 🔥 What I'm Working On  
-- 🎮 **Game Dev:** Developing "Toby the Meowstronaut" using **C++20 & Raylib**  
-- 🔧 **Backend & Web:** Exploring **Node.js & APIs** for dynamic applications  
-- 🎯 **Hackathons & Projects:** Building exciting projects & learning with teams  
-- 🌟 **Career Goal:** Becoming a **software engineer in the gaming or AI industry**  
+### 🕹️ Projects I'm Playing With:
 
-## 🛠 Tech Stack  
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Raylib](https://img.shields.io/badge/Raylib-000000?style=flat)  
+- 🎮 **[ZB-Games](https://github.com/zianBytes/ZB-GAMES)**  
+  Indie game hub powered by Raylib + C++. Featuring *Toby the Meowstronaut*, a pixel cat navigating space chaos.  
+  _“Space is hard when you're a cat.”_
 
-## 📌 My Projects  
-🔹 **[Toby the Meowstronaut](https://github.com/zianBytes/TobyTheMeowstronaut)** – C++ game with Raylib  
-🔹 **[HackNYU Project- Khao](https://github.com/AZcodes/hack-nyu)** – Web-based health app  
-🔹 **More coming soon!**  
+- 🛰️ **[Toby the Meowstronaut (Play Now)](https://zianbytes.github.io/ZB-GAMES)**  
+  A side-scrolling space game with custom sprites, treat collecting, and asteroid dodging.  
+  All hand-built with love and caffeine.
 
-## 📫 Let's Connect  
-- 🔗 **[GitHub](https://github.com/zianBytes)**
-- 🎯 **[LinkedIn](https://www.linkedin.com/in/mohammed-vhuyya-2b5b51164)**
-- 🏆 **[LeetCode](https://leetcode.com/u/mohammedzian/)**
-- 🌍 **Portfolio:** Coming soon!  
+- 🧠 **MindoDock** (In Progress)  
+  A sleek macOS-style dock under your webcam. Mini AI prompt window, music widget, sticky notes, and more.  
+  Dedicated to my grandma 💚.
 
-🚀 Always learning, always building. **Let's make cool things happen!**  
+---
+
+### 💾 Tech Stack That Makes It All Crash
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,html,css,js,nodejs,swift&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Raylib-5.0-brightgreen?style=for-the-badge&logo=raylib&logoColor=white" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/SwiftUI-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/Emscripten-FF6600?style=for-the-badge&logo=javascript&logoColor=white" />
+</p>
+
+---
+
+### 🧮 My Stats But Make It Funny
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zianBytes&layout=compact&theme=tokyonight)
+
+![Zian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zianBytes&show_icons=true&theme=radical)
+
+> 🚨 **How many times I crashed out this week**  
+> ![Commit Streak](https://github-readme-streak-stats.herokuapp.com/?user=zianBytes&theme=radical)
+
+---
+
+### 🔗 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/Mohammed%20Vhuyya-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-vhuyya/)
+
+---
+
+<details>
+<summary>🧪 secret dev energy</summary>
+
+```bash
+$ whoami
+> Indie Game Dev, CS Student, Pixel Wizard
+$ crash --out
+> Committed to chaos. Literally.
+ 
 
