@@ -25,8 +25,6 @@
     <img src="https://zianbytes.github.io/banner/source.jpg" width="1000" />
    </a>
  </p>
-      
----
 
 #### 🚀 Toby the Meowstronaut (Repo)
 > _A side scrolling space game with asteroid dodging, treats, and chaos._  
@@ -34,10 +32,15 @@
 > Coded from scratch in pure C++ (With the help of AI ofc).
 
 ---
+<p align="center">
+  <a href="https://zianbytes.github.io/zianOS/">
+    <img src="https://zianbytes.github.io/banner/notifed.jpg" width="1000" />
+   </a>
+ </p>
 
 #### 💻 MindoDock (In Progress)
 > _A sleek macOS-style dock under your webcam with built-in AI tools._  
-> Sticky notes, music widgets, and chat window — dedicated to my grandma 💚.
+> Sticky notes, music widgets, and chat window dedicated to my grandma 💚.
 
 ---
 
@@ -56,12 +59,20 @@
 
 ---
 
-### 🧠 My Stats (aka crash reports)
+### 🧠 Crash Report Dashboard
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Commits-71-yellow?style=for-the-badge&logo=github&logoColor=white&labelColor=111827" />
-  <img src="https://img.shields.io/badge/Current_Streak-1🔥-f43f5e?style=for-the-badge&labelColor=111827" />
-  <img src="https://img.shields.io/badge/Total_Contributions-108-38bdf8?style=for-the-badge&labelColor=111827" />
+  <img src="https://img.shields.io/badge/Commits-71-yellow?style=flat-square&logo=github&logoColor=white&labelColor=1f2937&color=FACC15" />
+  <img src="https://img.shields.io/badge/Current_Streak-1🔥-f43f5e?style=flat-square&labelColor=1f2937&color=f43f5e" />
+  <img src="https://img.shields.io/badge/Total_Contributions-108-38bdf8?style=flat-square&labelColor=1f2937&color=38bdf8" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-47%25-FACC15?style=flat-square&labelColor=1f2937&color=FACC15" />
+  <img src="https://img.shields.io/badge/C-31%25-6B7280?style=flat-square&labelColor=1f2937&color=6B7280" />
+  <img src="https://img.shields.io/badge/CSS-9%25-3B82F6?style=flat-square&labelColor=1f2937&color=3B82F6" />
+  <img src="https://img.shields.io/badge/HTML-5%25-F97316?style=flat-square&labelColor=1f2937&color=F97316" />
+  <img src="https://img.shields.io/badge/C++-2%25-EF4444?style=flat-square&labelColor=1f2937&color=EF4444" />
 </p>
 
 
