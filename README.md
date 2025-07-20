@@ -22,7 +22,7 @@
 
 <p align="center">
   <a href="https://github.com/zianBytes/TobyTheMeowstronaut">
-    <img src="https://zianbytes.github.io/banner/source.jpg" width="1000 />
+    <img src="https://zianbytes.github.io/banner/source.jpg" width="1000" />
    </a>
  </p>
       
