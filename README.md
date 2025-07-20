@@ -1,25 +1,23 @@
 <!-- README.md for zianBytes -->
 
-<div align="center">
-  <img src="https://your-banner-link-here.gif" alt="ZB Games Pixel Banner" width="100%" />
-  <h1>yo, I'm Zian 👾</h1>
-  <h3>💻 I love building things and crashing out 💥</h3>
-</div>
+<p align="center">
+  <iframe src="https://zianbytes.github.io/banner/" width="100%" height="200" style="border:none;"></iframe>
+</p>
 
 ---
 
 ### 🕹️ Projects I'm Playing With:
 
-- 🎮 **[ZB-Games](https://github.com/zianBytes/ZB-GAMES)**  
+- 🎮 **[ZB-Games (Play Now) ](https://github.com/zianBytes/ZB-GAMES)**  
   Indie game hub powered by Raylib + C++. Featuring *Toby the Meowstronaut*, a pixel cat navigating space chaos.  
   _“Space is hard when you're a cat.”_
 
-- 🛰️ **[Toby the Meowstronaut (Play Now)](https://zianbytes.github.io/ZB-GAMES)**  
-  A side-scrolling space game with custom sprites, treat collecting, and asteroid dodging.  
-  All hand-built with love and caffeine.
+- 🛰️ **[Toby the Meowstronaut (Repo Link)](https://github.com/zianBytes/TobyTheMeowstronaut)**  
+  A side scrolling space game with custom sprite, asteroid dodging.  
+  All built with love and caffeine.
 
 - 🧠 **MindoDock** (In Progress)  
-  A sleek macOS-style dock under your webcam. Mini AI prompt window, music widget, sticky notes, and more.  
+  A sleek macOS style dock under your webcam. Mini AI prompt window, music widget, sticky notes, and more.  
   Dedicated to my grandma 💚.
 
 ---
