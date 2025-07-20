@@ -20,9 +20,17 @@
 
 ---
 
-#### 🚀 [Toby the Meowstronaut (Repo)](https://github.com/zianBytes/TobyTheMeowstronaut)
-> _A side-scrolling space game with asteroid dodging, treats, and chaos._  
-> All custom sprites and logic — coded from scratch in pure C++.
+<p align="center">
+  <a href="https://github.com/zianBytes/TobyTheMeowstronaut">
+    <img src="https://zianbytes.github.io/banner/source.jpg" width="1000 />
+   </a>
+ </p>
+      
+---
+#### 🚀 Toby the Meowstronaut (Repo)
+> _A side scrolling space game with asteroid dodging, treats, and chaos._  
+> Custom sprites and logic.
+> Coded from scratch in pure C++ (With the help of AI ofc).
 
 ---
 
