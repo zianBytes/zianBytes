@@ -8,12 +8,15 @@
 ### 🕹️ Projects I'm Playing With:
 
 <p align="center">
-  <img src="https://zianbytes.github.io/banner/subbanner.jpg" width="1200"></img>
+  <a href="https://zianbytes.github.io/ZB-GAMES">
+    <img src="https://zianbytes.github.io/banner/subbanner2.jpg" width="1200" />
+  </a>
 </p>
-#### 🎮 [ZB-Games (Play Now)](https://github.com/zianBytes/ZB-GAMES)
-> _An indie game hub built with Raylib + C++. Features_ **Toby the Meowstronaut**,  
-> _a pixel cat navigating space chaos._  
-> 💬 *“Space is hard when you’re a cat.”*
+
+#### 🎮 ZB-Games (Play Now)
+> Indie game hub powered by Raylib + C++.  
+> Featuring *Toby the Meowstronaut*, a pixel cat navigating space chaos.  
+> 💬 _“Space is hard when you're a cat.”_
 
 ---
 
