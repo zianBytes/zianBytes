@@ -15,7 +15,7 @@
 
 #### 🎮 ZB-Games (Play Now)
 > Indie game hub powered by Raylib + C++.  
-> Featuring *Toby the Meowstronaut*, a pixel cat navigating space chaos.  
+> Featuring the first game *Toby the Meowstronaut*, a pixel cat navigating space chaos.  
 > 💬 _“Space is hard when you're a cat.”_
 
 ---
